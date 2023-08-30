@@ -1,0 +1,14 @@
+#home__image{
+    width:100%;
+    height:50vh;
+    margin-bottom: 20px;
+}
+.display__cards{
+display: flex;
+
+margin: 30px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
